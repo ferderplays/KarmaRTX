@@ -1,0 +1,21 @@
+{
+    "format_version": 2,
+    "header": {
+        "description": "KarmaRTX - RTX Resource Pack for minecraft bedrock edition",
+        "name": "KarmaRTX",
+        "uuid": "e8b757a5-cb22-4f24-9e54-01475cfef7a9",
+        "version": [0, 0, 1],
+        "min_engine_version": [1, 16, 204]
+    },
+    "modules": [
+        {
+            "description":"KarmaRTX - RTX Resource Pack for minecraft bedrock edition",
+            "type": "resources",
+            "uuid": "92030bd5-6988-42f1-8fe8-564978a3a989",
+            "version": [0, 0, 1]
+        }
+    ],
+    "capabilities": [
+        "raytraced"
+    ]
+}
